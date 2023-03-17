@@ -4,11 +4,11 @@ Ever felt the need to talk to someone who dosent judge you? Yeah , Not talking a
 
 Made on Android Studio in Java.
 
-https://showup.web.app/  (Use Desktop/ Desktop layout option)
+https://showup.web.app/   (Use Desktop/ Desktop layout option)
 
-Play Store:https://play.google.com/store/apps/details?id=com.vkhcompany.showup
+Play Store:  https://play.google.com/store/apps/details?id=com.vkhcompany.showup
 
-NOTE:App development as well as website development is in progress. Thanks.
+NOTE:  App development as well as website development is in progress. Thanks.
 
 ScreenShots:
 
